@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Popwindow.iml" filepath="$PROJECT_DIR$/Popwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gesturedemo/gesturedemo.iml" filepath="$PROJECT_DIR$/gesturedemo/gesturedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobileadaptation/mobileadaptation.iml" filepath="$PROJECT_DIR$/mobileadaptation/mobileadaptation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/picassodemo/picassodemo.iml" filepath="$PROJECT_DIR$/picassodemo/picassodemo.iml" />
+    </modules>
+  </component>
+</project>
